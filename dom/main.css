@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* 
+.container {
+    max-width: 500px;
+    background-color: tomato;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.window{
+    width: 300px;
+    height: 200px;
+    background-color: greenyellow;
+    display: none;
+}
+
+.show{
+    display: block;
+        width: 300px;
+    height: 200px;
+    background-color: greenyellow;
+} */
+
+/* .text{
+    width: 200px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.minus{
+    width: 30px;
+    height: 30px;
+}
+
+.plus{
+    width: 30px;
+    height: 30px;
+}
+.kopay{
+    width: 30px;
+    height: 30px;
+}
+
+.bolu{
+    width: 30px;
+    height: 30px;
+}
+.one{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.two{
+    width: 30px;
+    height: 30px;
+}
+.three{
+    width: 30px;
+    height: 30px;
+}
+
+.four{
+    width: 30px;
+    height: 30px;
+}
+.fiwe{
+    width: 30px;
+    height: 30px;
+} */
+
+
+.btn{
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+    margin-top: 50px;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.btn1{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: green;
+    border-radius: 15px;
+}
+
+.btn2{
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+    margin-top: 50px;
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.btn3{
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+.p1{
+    margin-left: 550px;
+    font-size: 30px;
+}
+.p2{
+    font-size: 24px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+.p3{
+    font-size: 24px;
+    margin-left: 800px;
+    margin-top: -30px;
+}
+
+.startGame{
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
